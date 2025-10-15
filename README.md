@@ -16,20 +16,22 @@
       height: 100vh;
       text-align: center;
     }
-    img {
+    a img {
       max-width: 300px;
       border-radius: 15px;
       border: 3px solid #fff;
       transition: transform 0.3s;
     }
-    img:hover {
+    a img:hover {
       transform: scale(1.1);
     }
   </style>
 </head>
 <body>
   <div>
-    <img src=https://www.roblox.com/share?code=2edd6581449ec64090dc0e189de74e20&type=Server-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
+    <a href="https://www.roblox.com/share?code=2edd6581449ec64090dc0e189de74e20&type=Server" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
+    </a>
   </div>
 </body>
 </html>
