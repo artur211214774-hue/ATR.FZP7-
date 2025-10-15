@@ -29,7 +29,7 @@
 </head>
 <body>
   <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
+    <img src=https://www.roblox.com/share?code=2edd6581449ec64090dc0e189de74e20&type=Server-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
   </div>
 </body>
 </html>
