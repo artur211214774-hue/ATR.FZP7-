@@ -3,18 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ATR.FZP7 - Discord</title>
+  <title></title>
   <style>
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
       background-color: #121212;
-      color: white;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      text-align: center;
     }
     a img {
       max-width: 300px;
@@ -28,10 +25,8 @@
   </style>
 </head>
 <body>
-  <div>
-    <a href="https://www.roblox.com/share?code=2edd6581449ec64090dc0e189de74e20&type=Server" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
-    </a>
-  </div>
+  <a href="https://www.roblox.com/share?code=2edd6581449ec64090dc0e189de74e20&type=Server" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord Logo">
+  </a>
 </body>
 </html>
