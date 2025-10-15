@@ -50,9 +50,9 @@
     <h1>ATR.FZP7</h1>
     <p>Conecte-se comigo nas redes sociais:</p>
     <div class="social-links">
-      <a href="#" target="_blank">Instagram</a>
-      <a href="#" target="_blank">YouTube</a>
-      <a href="#" target="_blank">TikTok</a>
+      <a href="#" target="_blank">discord
+      <a href="#" target="_blank">fazin
+      <a href="#" target="_blank">moreira
     </div>
   </div>
 </body>
